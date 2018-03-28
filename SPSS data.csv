@@ -1,0 +1,58 @@
+﻿Number,Letter,Age,Sex,Ethnicity,Ethnicity_A,hoursAerobic,hoursResistance,hoursOther,typeAerobic,typeResistance,typeOther,height,weight,firstCond,RT,Acc,secCond,RT_A,Acc_A,thirdCond,RT_B,Acc_B,V24,group,RT_C,Acc_C,RT_I,Acc_I,RT_X,Acc_X
+3,c,23,f,south asian,.,5,5,3,running,weight,walking,63,111,congruent,915.471,1,incongruent,1083.453,1,xxxx,978.323,1, ,1,915.471,1,1083.453,1,978.323,1
+43,c,19,m,white,west asian,5,0,1,swimming,-1,walking,71,210,congruent,1433.044,1,incongruent,1417.46,1,xxxx,1291.391,1, ,1,1433.044,1,1417.46,1,1291.391,1
+48,c,22,f,white,.,1,1,3,dancing,yoga,walking,64,180,congruent,1591.863,1,incongruent,1625.47,.9333,xxxx,1131.482,.9333, ,1,1591.863,1,1625.47,.9333,1131.482,.9333
+56,c,20,f,south asian,.,1,1,2,running,weight,walking,64,143,congruent,3431.341,.9333,incongruent,3832.052,1,xxxx,1492.297,1, ,1,3431.341,.9333,3832.052,1,1492.297,1
+61,c,20,f,south asian,.,0,1,2,-1,meditation,walking,65,117,congruent,1243.321,1,incongruent,1625.073,.9333,xxxx,1317.806,.9333, ,1,1243.321,1,1625.073,.9333,1317.806,.9333
+2,c,21,f,white,.,1,4,10,running,weight,"walking, stretching",67.5,125,congruent,831.6297,.9333,xxxx,759.7883,1,incongruent,841.368,1, ,1,831.6297,.9333,841.368,1,759.7883,1
+22,c,21,f,east asian,.,0,0,1.5,-1,-1,"walking, stairs",70,175,congruent,1040.464,.9333,xxxx,1285.705,1,incongruent,1449.259,1, ,1,1040.464,.9333,1449.259,1,1285.705,1
+45,c,19,f,south asian,.,4,1,3,running,weight,stretching,66,145,congruent,1648.911,1,xxxx,1375.594,1,incongruent,1491.622,1, ,1,1648.911,1,1491.622,1,1375.594,1
+57,c,19,f,south asian,.,2,1,2,running,weight,walking,62,119,congruent,1424.129,1,xxxx,1064.654,1,incongruent,1379.139,.9333, ,1,1424.129,1,1379.139,.9333,1064.654,1
+58,c,21,f,east asian,.,0,0,1,-1,-1,walking,66,137,congruent,983.2603,.9333,xxxx,921.759,1,incongruent,909.367,1, ,1,983.2603,.9333,909.367,1,921.759,1
+60,c,23,f,white,.,3,0,20,running,-1,walking,63,115,congruent,954.7077,1,xxxx,922.7883,1,incongruent,1260.95,.9333, ,1,954.7077,1,1260.95,.9333,922.7883,1
+7,c,22,f,south asian,.,3.5,5,2.5,running,weight,stretching,67,160,incongruent,798.7113,.8667,congruent,822.5,.9333,xxxx,688.5447,.875, ,1,822.5,.9333,798.7113,.8667,688.5447,.875
+18,c,20,m,south american,.,2,3,2,running,weight,walking,70,210,incongruent,1129.556,.8,congruent,878.5847,.8,xxxx,670.837,.9333, ,1,878.5847,.8,1129.556,.8,670.837,.9333
+1,c,22,f,white,south asian,2,1,1,running,home,walking,62,110,incongruent,1276.456,1,xxxx,1089.141,1,congruent,810.87,1, ,1,810.87,1,1276.456,1,1089.141,1
+49,c,22,m,south american,.,1,.5,3,running,pushups,walking,66,140,incongruent,1330.626,1,xxxx,891.9437,.9333,congruent,755.0957,1, ,1,755.0957,1,1330.626,1,891.9437,.9333
+62,c,19,f,south asian,.,0,0,12,-1,-1,walking,64,110,incongruent,1652.765,1,xxxx,862.9017,1,congruent,714.735,.8667, ,1,714.735,.8667,1652.765,1,862.9017,1
+23,c,26,f,white,south asian,2,2,1,running,weight,walking,65,110,xxxx,944.5757,1,congruent,888.204,1,incongruent,1098.834,1, ,1,888.204,1,1098.834,1,944.5757,1
+44,c,26,f,east asian,.,0,0,2,-1,-1,walking,63,121,xxxx,1125.895,1,congruent,845.6917,1,incongruent,847.305,1, ,1,845.6917,1,847.305,1,1125.895,1
+20,c,22,f,east asian,.,0,0,1,-1,-1,walking,64,104,xxxx,1924.279,.8667,incongruent,1053.876,1,congruent,783.7387,1, ,1,783.7387,1,1053.876,1,1924.279,.8667
+16,a,21,f,south asian,.,0,0,1,-1,-1,walking,65,120,congruent,804.3623,.9333,incongruent,930.507,.5333,xxxx,702.0303,.9333, ,2,804.3623,.9333,930.507,.5333,702.0303,.9333
+31,a,20,m,southeast asian,.,1,3,5,running,weight,walking,67,143,congruent,2231.292,1,incongruent,1719.415,1,xxxx,1867.306,1, ,2,2231.292,1,1719.415,1,1867.306,1
+33,a,19,f,south asian,.,2,.5,6,running,weight,walking,65,98,congruent,2435.942,1,incongruent,1786.639,1,xxxx,1117.343,.9333, ,2,2435.942,1,1786.639,1,1117.343,.9333
+50,a,21,m,south asian,.,8,8,6,running,weight,"walking, stairs",70,190,congruent,1261.442,1,incongruent,1370.155,1,xxxx,1167.885,1, ,2,1261.442,1,1370.155,1,1167.885,1
+52,a,25,m,south asian,.,0,0,0,-1,-1,-1,65,155,congruent,1154.116,.9333,incongruent,1150.016,.9333,xxxx,954.4307,1, ,2,1154.116,.9333,1150.016,.9333,954.4307,1
+17,a,34,m,white,aboriginal,2,10,3,"cycling, running, skipping","bands, weight",stretching,73,193,congruent,1413.158,1,xxxx,1080.621,1,incongruent,1188.047,1, ,2,1413.158,1,1188.047,1,1080.621,1
+55,a,20,f,south american,.,0,0,2.5,-1,-1,walking,62,153,congruent,1161.806,.8667,xxxx,971.0993,1,incongruent,1113.422,.9333, ,2,1161.806,.8667,1113.422,.9333,971.0993,1
+12,a,20,f,south asian,.,0,0,0,-1,-1,-1,68.5,110,incongruent,798.7113,.8667,congruent,822.5,.9333,xxxx,678.3567,.8667, ,2,822.5,.9333,798.7113,.8667,678.3567,.8667
+21,a,22,m,south asian,.,2,0,60,running,-1,walking,73,180,incongruent,851.808,.9333,congruent,757.3047,1,xxxx,589.151,1, ,2,757.3047,1,851.808,.9333,589.151,1
+28,a,23,m,south asian,.,10,14,5,running,weight,stretching,72,210,incongruent,1698.338,.8667,congruent,1091.912,1,xxxx,1020.171,1, ,2,1091.912,1,1698.338,.8667,1020.171,1
+30,a,21,f,white,.,1,0,6,cycling,-1,walking,67,135,incongruent,1752.984,1,congruent,1502.389,1,xxxx,1142.096,1, ,2,1502.389,1,1752.984,1,1142.096,1
+65,a,20,m,south asian,.,4,0,2,running,-1,walking,73,195,incongruent,1114.937,.8667,congruent,650.5367,.9333,xxxx,647.438,.9333, ,2,650.5367,.9333,1114.937,.8667,647.438,.9333
+4,a,24,f,south asian,.,6.5,12,3,"cycling, steps",weight,"walking, stretching",64,138,incongruent,2578.875,.8,xxxx,1161.976,1,congruent,969.2263,1, ,2,969.2263,1,2578.875,.8,1161.976,1
+15,a,19,f,south asian,.,0,0,2,running,-1,walking,67,110,incongruent,1121.605,.8,xxxx,945.571,1,congruent,796.59,1, ,2,796.59,1,1121.605,.8,945.571,1
+32,a,19,f,east asian,.,0,0,7,-1,-1,walking,62,132,incongruent,1430.254,1,xxxx,867.53,1,congruent,783.0347,1, ,2,783.0347,1,1430.254,1,867.53,1
+34,a,19,f,south asian,.,2,.5,7,running,weight,walking,62,120,incongruent,6014.056,.8667,xxxx,2035.986,1,congruent,2309.192,1, ,2,2309.192,1,6014.056,.8667,2035.986,1
+14,a,22,f,south asian,.,5,5,2,stairs,weight,stretching,64,190,xxxx,1363.767,1,congruent,925.339,1,incongruent,1293.537,.9333, ,2,925.339,1,1293.537,.9333,1363.767,1
+5,a,21,f,south asian,.,4,0,4,running,-1,walking,66,155,xxxx,854.4107,.9333,incongruent,1112.419,1,congruent,734.562,1, ,2,734.562,1,1112.419,1,854.4107,.9333
+19,r,22,f,south asian,.,1,9,5,running,weight,walking,67,122,congruent,2297.034,1,incongruent,1497.162,1,xxxx,1306.796,1, ,3,2297.034,1,1497.162,1,1306.796,1
+24,r,20,f,white,.,1,.5,1.5,running,weight,"walking, stretching",62,107,congruent,1408.072,1,incongruent,1272.813,1,xxxx,966.8717,1, ,3,1408.072,1,1272.813,1,966.8717,1
+37,r,22,f,white,.,2,0,3,running,-1,walking,63,140,congruent,1223.33,1,incongruent,1454.043,1,xxxx,1217.546,1, ,3,1223.33,1,1454.043,1,1217.546,1
+39,r,18,m,white,.,5,2,2,skating,weight,walking,75,215,congruent,1752.991,1,incongruent,1220.553,1,xxxx,792.856,1, ,3,1752.991,1,1220.553,1,792.856,1
+42,r,20,m,white,.,0,0,0,-1,-1,-1,73,208,congruent,831.0197,1,incongruent,1038.476,1,xxxx,688.1683,.9333, ,3,831.0197,1,1038.476,1,688.1683,.9333
+29,r,20,f,south asian,.,0,0,0,-1,-1,-1,63,150,congruent,1066.157,1,xxxx,1127.572,1,incongruent,1426.877,1, ,3,1066.157,1,1426.877,1,1127.572,1
+40,r,20,m,south asian,.,0,0,20,-1,-1,walking,73,160,congruent,1805.544,1,xxxx,739.3677,1,incongruent,952.654,.9333, ,3,1805.544,1,952.654,.9333,739.3677,1
+41,r,17,f,south american,west asian,1.5,1.5,1,cycling,weight,stretching,68,130,incongruent,2783.102,1,congruent,925.7963,1,xxxx,836.883,1, ,3,925.7963,1,2783.102,1,836.883,1
+51,r,22,f,white,.,6,3,1.5,"hot yoga, running",weight,"yoga, stretching",71,190,incongruent,947.7693,1,congruent,818.3017,.9333,xxxx,846.4353,1, ,3,818.3017,.9333,947.7693,1,846.4353,1
+9,r,18,f,south asian,.,0,2,3,-1,weight,walk,61,100,incongruent,1632.208,.9333,xxxx,1078.849,1,congruent,1197.476,1, ,3,1197.476,1,1632.208,.9333,1078.849,1
+25,r,38,f,west asian,.,2,0,0,dancing,-1,-1,62,121,incongruent,1243.622,.8,xxxx,1026.281,1,congruent,996.8407,1, ,3,996.8407,1,1243.622,.8,1026.281,1
+36,r,22,m,white,.,3,3,2,crossfit,crossfit,"walking, stretching",67,160,incongruent,976.6003,1,xxxx,914.469,1,congruent,753.7487,1, ,3,753.7487,1,976.6003,1,914.469,1
+38,r,23,f,white,.,0,0,4,-1,-1,walking,65,230,incongruent,1937.305,1,xxxx,958.2763,1,congruent,879.782,1, ,3,879.782,1,1937.305,1,958.2763,1
+47,r,18,f,white,.,5,1,5,dancing,weight,stretching,66,115,incongruent,1572.567,1,xxxx,1344.361,1,congruent,981.338,1, ,3,981.338,1,1572.567,1,1344.361,1
+63,r,17,f,south asian,.,0,0,7,-1,-1,walking,66,117,incongruent,1589.132,1,xxxx,1180.823,1,congruent,1055.902,1, ,3,1055.902,1,1589.132,1,1180.823,1
+26,r,23,m,east asian,.,0,0,14,-1,-1,walking,71,130,xxxx,751.9093,.9333,congruent,602.508,1,incongruent,896.1937,.8667, ,3,602.508,1,896.1937,.8667,751.9093,.9333
+64,r,17,f,south asian,.,1,1,0,dancing,weight,-1,63,110,xxxx,1181.724,1,congruent,1295.685,1,incongruent,1271.896,1, ,3,1295.685,1,1271.896,1,1181.724,1
+11,r,18,f,southeast asian,.,1,2,10,running,weight,"walking, stretching",63,168,xxxx,1032.122,1,incongruent,989.8383,.8,congruent,608.1527,1, ,3,608.1527,1,989.8383,.8,1032.122,1
+35,r,24,f,south american,.,5,3,2,running,pilates,walking,60,125,xxxx,886.6607,.9333,incongruent,1469.137,1,congruent,770.0603,1, ,3,770.0603,1,1469.137,1,886.6607,.9333
+46,r,18,f,white,.,1.5,0,2,running,-1,"walking, stretching",65,123,xxxx,1008.248,1,incongruent,937.4963,1,congruent,816.0067,1, ,3,816.0067,1,937.4963,1,1008.248,1
